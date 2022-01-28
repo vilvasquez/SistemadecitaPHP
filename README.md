@@ -1,2 +1,2 @@
 # sistemadecitaPHP
-![screenshot](odonto.jpg)
+![screenshot](resource/odonto.jpg)
